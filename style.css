@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+pre {
+  white-space: pre-line;
+}
+
+.container {
+  border: 3px solid #ccc;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.error {
+  color: red;
+}
+
+.success {
+  color: green;
+}
